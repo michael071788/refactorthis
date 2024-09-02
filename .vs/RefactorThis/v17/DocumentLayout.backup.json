@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|D:\\Development\\Others\\Refactor\\personal\\refactorthis\\refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|solutionrelative:refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3AFC42-5F1F-4E0C-84A5-0B152AEF5F4F}|RefactoredDomain\\RefactoredDomain.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoreddomain\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3AFC42-5F1F-4E0C-84A5-0B152AEF5F4F}|RefactoredDomain\\RefactoredDomain.csproj|solutionrelative:refactoreddomain\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|D:\\Development\\Others\\Refactor\\personal\\refactorthis\\refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|solutionrelative:refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3AFC42-5F1F-4E0C-84A5-0B152AEF5F4F}|RefactoredDomain\\RefactoredDomain.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoreddomain\\services\\interface\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3AFC42-5F1F-4E0C-84A5-0B152AEF5F4F}|RefactoredDomain\\RefactoredDomain.csproj|solutionrelative:refactoreddomain\\services\\interface\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactorthis.persistence\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,36 +27,24 @@
       "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|solutionrelative:refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|D:\\Development\\Others\\Refactor\\personal\\refactorthis\\refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|solutionrelative:refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\interface\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\interface\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\data\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\data\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactorthis.persistence\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|d:\\development\\others\\refactor\\personal\\refactorthis\\refactoredpersistence\\enums\\commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF00A8D0-996C-4DCB-B5D7-0FEA434801E4}|RefactoredPersistence\\RefactoredPersistence.csproj|solutionrelative:refactoredpersistence\\enums\\commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 289,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 207,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,6 +74,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredDomain\\Services\\Interface\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "RefactoredDomain\\Services\\Interface\\IInvoiceService.cs",
+              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredDomain\\Services\\Interface\\IInvoiceService.cs",
+              "RelativeToolTip": "RefactoredDomain\\Services\\Interface\\IInvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:15:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredDomain\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "RefactoredDomain\\Services\\InvoiceService.cs",
+              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredDomain\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "RefactoredDomain\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:09:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\PaymentRepository.cs",
@@ -99,91 +113,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "InvoiceRepository.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\InvoiceRepository.cs",
               "RelativeDocumentMoniker": "RefactoredPersistence\\Data\\Repository\\InvoiceRepository.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\InvoiceRepository.cs",
               "RelativeToolTip": "RefactoredPersistence\\Data\\Repository\\InvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T19:27:17.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RefactoredPersistence\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RefactoredPersistence\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:17:04.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Entities\\Invoice.cs",
-              "RelativeDocumentMoniker": "RefactoredPersistence\\Entities\\Invoice.cs",
-              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Entities\\Invoice.cs",
-              "RelativeToolTip": "RefactoredPersistence\\Entities\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:02:38.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CommonEnum.cs",
-              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Enums\\CommonEnum.cs",
-              "RelativeDocumentMoniker": "RefactoredPersistence\\Enums\\CommonEnum.cs",
-              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Enums\\CommonEnum.cs",
-              "RelativeToolTip": "RefactoredPersistence\\Enums\\CommonEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:00:23.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\Interface\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "RefactoredPersistence\\Data\\Repository\\Interface\\IBaseRepository.cs",
-              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\Interface\\IBaseRepository.cs",
-              "RelativeToolTip": "RefactoredPersistence\\Data\\Repository\\Interface\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:48:04.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "RefactoredPersistence\\Data\\Repository\\BaseRepository.cs",
-              "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "RefactoredPersistence\\Data\\Repository\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:21:45.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "IInvoiceRepository.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\Interface\\IInvoiceRepository.cs",
               "RelativeDocumentMoniker": "RefactoredPersistence\\Data\\Repository\\Interface\\IInvoiceRepository.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactoredPersistence\\Data\\Repository\\Interface\\IInvoiceRepository.cs",
               "RelativeToolTip": "RefactoredPersistence\\Data\\Repository\\Interface\\IInvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:07:59.477Z"
+              "WhenOpened": "2024-09-02T19:07:59.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -195,28 +147,27 @@
               "RelativeToolTip": "RefactoredPersistence\\Entities\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:01:22.11Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2024-09-02T19:01:22.11Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 2,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "InvoiceService.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
               "RelativeDocumentMoniker": "RefactorThis.Domain\\InvoiceService.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
               "RelativeToolTip": "RefactorThis.Domain\\InvoiceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T14:17:49.111Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 162,
-          "SelectedChildIndex": 2,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -225,20 +176,20 @@
               "RelativeDocumentMoniker": "RefactorThis.Persistence\\Invoice.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Persistence\\Invoice.cs",
               "RelativeToolTip": "RefactorThis.Persistence\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T19:59:25.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "InvoicePaymentProcessorTests.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
               "RelativeDocumentMoniker": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
               "RelativeToolTip": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T19:40:28.31Z",
               "EditorCaption": ""
@@ -251,14 +202,14 @@
               "RelativeDocumentMoniker": "RefactorThis.Persistence\\InvoiceRepository.cs",
               "ToolTip": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Persistence\\InvoiceRepository.cs",
               "RelativeToolTip": "RefactorThis.Persistence\\InvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T14:18:01.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Development\\Others\\Refactor\\personal\\refactorthis\\RefactorThis.Persistence\\Payment.cs",
               "RelativeDocumentMoniker": "RefactorThis.Persistence\\Payment.cs",
