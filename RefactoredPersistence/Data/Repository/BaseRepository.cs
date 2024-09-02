@@ -17,6 +17,12 @@ namespace RefactoredPersistence.Data.Repository
             _context = context;
         }
 
+        public void AddCommit(T entity)
+        {
+            _context.Add(entity);
+            _context.SaveChanges();
+        }
+
         public async Task<(T, bool result)> AddCommitAsync(T entity)
         {
             await _context.AddAsync(entity);
@@ -185,6 +191,12 @@ namespace RefactoredPersistence.Data.Repository
             return (_bResult, _errorMessage);
         }
 
+        public void UpdateCommit(T entity)
+        {
+            _context.Entry(entity).CurrentValues.SetValues(entity);
+            _context.SaveChanges();
+        }
+
         public async Task<(bool, string)> UpdateRangeWithErrorMessageAsync(IEnumerable<T> entities)
         {
             _bResult = true;
@@ -228,6 +240,15 @@ namespace RefactoredPersistence.Data.Repository
                 query = query.Include(includeProperty);
 
             return await query.Where(predicate).ToListAsync();
+        }
+
+        public IEnumerable<T> FindByAndAllIncluding(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includeProperties)
+        {
+            IQueryable<T> query = _context.Set<T>();
+            foreach (var includeProperty in includeProperties)
+                query = query.Include(includeProperty);
+
+            return query.Where(predicate).ToList();
         }
 
         public async Task<IEnumerable<T>> FindByAsync(Expression<Func<T, bool>> predicate) => await _context.Set<T>().AsNoTracking().Where(predicate).ToListAsync();
